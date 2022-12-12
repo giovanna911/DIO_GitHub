@@ -1,0 +1,17 @@
+link para dowload do git: https://git-scm.com/downloads
+O Git Bash é o aplicativo para ambientes do Microsoft Windows que oferece a camada de emulação para a experiência de linha de comando Git. Bash é acrônico para "Bourne Again Shell". 
+Shells são aplicativos terminais usados como interface em sistemas operacionais por meio de comandos gravados.
+
+Códigos:
+Inserir uma nova pasta no Git:
+
+git clone: Clona algo que vc irá inserir.
+
+cd ( e o nome do arquivo): Abre a pasta que lhe foi direcionado
+
+git status: mostra como está atualmente a pasta 
+
+git add . ou git -A: Adiciona todos os arquivos da pasta
+
+git commit -m "MENSAGEM": Para deixar uma mensagem
+
