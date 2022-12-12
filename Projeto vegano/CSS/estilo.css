@@ -1,0 +1,76 @@
+.fundo{
+    background-image: url(https://th.bing.com/th/id/R.25452650a3ee02dacdd628700b15abc4?rik=ziClExJoTsneSw&riu=http%3a%2f%2fwallpapercave.com%2fwp%2ftQruBjD.jpg&ehk=57Ayoa425rV6GPuG4beGbgyaNhUNxbMzcTISGJBvStA%3d&risl=&pid=ImgRaw&r=0);
+    background-size: cover;
+}
+
+body{
+    background-color:rgb(243, 201, 207)!important;
+}
+
+div, .centralizar-tabela{
+	font-family: Arial, Helvetica, sans-serif;
+	width: 50%;
+	margin: auto;
+	padding: 20px;
+	
+}
+
+div{
+    box-shadow: 0px 0px 42px -14px rgba(0,0,0,1);
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+.breadcrumb-item{
+    font-size: 18px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.center{
+    align-items: center;
+    width:400px;
+    border:solid 1px;
+    border-radius:20px;
+}
+
+.vaquinha{
+    align-items: center;
+    width: 800px;
+    display: block;
+    margin: auto;
+}
+
+.inicio{
+    align-items: center;
+    width: 800px;
+    border: solid 1px;
+    border-radius: 20px;
+}
+
+.lados{
+    width: 40%;
+    border: solid 1px;
+    border-radius: 20px;
+}
+
+.produtos{
+    align-items: center;
+    width:400px;
+    border-bottom:solid 1px;
+    border-radius:20px;
+}
+
+.manteiga{
+    Width:400px;
+    align-items: center;
+    border: solid 1px;
+    border-radius: 20px;
+}
+
+
+
